@@ -33,7 +33,7 @@ public class EstruturaRepeticaoExercicio {
             System.out.println(nomeUsuario);
         }
 
-
+    sc.close();
     }
 
 
